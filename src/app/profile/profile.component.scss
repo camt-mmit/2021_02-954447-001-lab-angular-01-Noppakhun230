@@ -1,0 +1,21 @@
+.center {
+  display: grid;
+  justify-content: center;
+}
+.litext {
+  width: 500px;
+    margin: auto;
+}
+a {
+  color: green;
+  text-decoration: none;
+  border: 0.5px solid blue;
+  border-radius: 8px;
+  margin-left: 0.25ch;
+  margin-right: 0.25ch;
+  padding: 2px 5px;
+  }
+  a.st-active {
+  background-color: pink;
+  }
+
